@@ -1,0 +1,3 @@
+[submodule "avd_js"]
+	path = avd_js
+	url = ssh://git@10.10.122.228:10022/avd_js/avd_js.git
